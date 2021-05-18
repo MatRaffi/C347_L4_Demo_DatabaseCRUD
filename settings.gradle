@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "C347_L4_Demo_DatabaseCRUD"
